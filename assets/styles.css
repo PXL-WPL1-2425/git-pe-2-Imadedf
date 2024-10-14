@@ -21,3 +21,16 @@ a {
     font-size: 14pt;
     text-decoration: none;
 }
+.button {
+    background-color: red;
+    border: none;
+    color: black;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:12px;
+    font-weight: bold;
+}
